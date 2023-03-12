@@ -14,7 +14,7 @@
  <img align="center" alt="" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img align="center" alt="" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/> <br/> 
 
-<div style="margin-top: 5px">
+<div style="margin-top:15px">
  <img align="center" alt="" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
  <img align="center" alt="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
  <img align="center" alt="" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
